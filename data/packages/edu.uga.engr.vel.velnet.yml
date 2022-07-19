@@ -1,0 +1,20 @@
+name: edu.uga.engr.vel.velnet
+displayName: VelNet
+description: A custom networking library for Unity.
+repoUrl: 'https://github.com/velaboratory/VelNetUnity'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - network
+hunter: velaboratory
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: >-
+  https://raw.githubusercontent.com/velaboratory/VelNetUnity/main/velnet_logo.png
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1658264243135
